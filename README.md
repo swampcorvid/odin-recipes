@@ -1,4 +1,3 @@
 # odin-recipes
-Pre-project:
-    This will be a project showcasing basic HTML skills, including basic setup, headers and 
-        paragraphs, lists, links and images. 
+This is small project to showcase basic html skills. Skills included are headers and footers, lists both ordered and unordered, inserting images, and creating absolute and relative links.
+All recipes contained in this project are attribued via the source link underneath every image.
